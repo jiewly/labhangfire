@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "zyy5q8eUiyqoZX/iLOEtEONrhVDV3Ctt/XavlgNBhXrVu3T33IKYVOJt7Fw0vRgkYKqPocJj0sU8pV3MDIQm6g==",
+  "success": true,
+  "projectFilePath": "D:\\CFJIEW\\labhangfire\\labhangfire\\labhangfire.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cf303520\\.nuget\\packages\\hangfire.aspnetcore\\1.7.24\\hangfire.aspnetcore.1.7.24.nupkg.sha512",
+    "C:\\Users\\cf303520\\.nuget\\packages\\hangfire.core\\1.7.24\\hangfire.core.1.7.24.nupkg.sha512",
+    "C:\\Users\\cf303520\\.nuget\\packages\\hangfire.sqlserver\\1.7.24\\hangfire.sqlserver.1.7.24.nupkg.sha512",
+    "C:\\Users\\cf303520\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\cf303520\\.nuget\\packages\\microsoft.win32.registry\\4.4.0\\microsoft.win32.registry.4.4.0.nupkg.sha512",
+    "C:\\Users\\cf303520\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512",
+    "C:\\Users\\cf303520\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\cf303520\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\cf303520\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\cf303520\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\cf303520\\.nuget\\packages\\system.data.sqlclient\\4.4.0\\system.data.sqlclient.4.4.0.nupkg.sha512",
+    "C:\\Users\\cf303520\\.nuget\\packages\\system.security.accesscontrol\\4.4.0\\system.security.accesscontrol.4.4.0.nupkg.sha512",
+    "C:\\Users\\cf303520\\.nuget\\packages\\system.security.principal.windows\\4.4.0\\system.security.principal.windows.4.4.0.nupkg.sha512",
+    "C:\\Users\\cf303520\\.nuget\\packages\\system.text.encoding.codepages\\4.4.0\\system.text.encoding.codepages.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
